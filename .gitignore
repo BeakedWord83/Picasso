@@ -1,0 +1,16 @@
+# IDE
+.idea
+
+# Python
+__pycache__
+
+# Project folders
+venv
+boards
+
+# Test config
+.coverage
+
+# University files
+README
+VIDEO
